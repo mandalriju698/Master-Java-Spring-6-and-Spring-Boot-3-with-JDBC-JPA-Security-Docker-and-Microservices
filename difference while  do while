@@ -1,0 +1,4 @@
+Syntax                while (condition) { }                 do { } while (condition);
+First Execution      Condition is checked                   Loop block is executed at least once before checking the condition.
+                     before the loop block is 
+                     executed. 
