@@ -1,3 +1,8 @@
+
+        int -4 byte
+	long-8byte
+	short-2 byte
+
 public class hello {
 
 	public static void main(String[] args) {
