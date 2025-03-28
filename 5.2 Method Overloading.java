@@ -1,7 +1,9 @@
 
 
 //Method overloading is a feature in Java
-	//that allows a class to have multiple methods with the same name but different parameter lists (different types, number, or both). It is an example of compile-time (static) polymorphism.
+	//that allows a class to have multiple methods with the same name but
+//different parameter lists (different types, number, or both).
+//It is an example of compile-time (static) polymorphism.
 
 
 
